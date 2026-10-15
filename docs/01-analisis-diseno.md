@@ -37,7 +37,7 @@ se tome alguna desicion sobre el riego.
 ## 4. Características comunes y especialización
 
 1.- Lo unico que tienen en comun los sensores es el tipo de objeto que son, son sensores.
-2.- Ambos tipos de sensores se encargan de obtener una medicion.
+2.- Ambos tipos Características comunes y especializaciónde sensores se encargan de obtener una medicion.
 3.- Cambian la referencia de medicion que estan haciendo, los de humedad deben de tener una variable diferente al de temperatura ambiental.
 4.- Si, todos son clase sensor.
 5.- Podriamos decir que uno se especializa en cierto tipo de lugares donde el algun otro no podria obtener nada util.
